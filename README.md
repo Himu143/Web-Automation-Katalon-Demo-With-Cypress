@@ -22,8 +22,10 @@
 ## Mochawesome Report:
 ![image](https://github.com/Himu143/Web-Automation-Katalon-Demo-With-Cypress/assets/78273243/c3dde0df-9aba-4e9c-9bbf-fe0866d9ca65)
 ## Video Output: 
-https://github.com/Himu143/Web-Automation-Katalon-Demo-With-Cypress/assets/78273243/8bae9212-b616-4ad6-8bbe-3abbce8ecb29
-https://github.com/Himu143/Web-Automation-Katalon-Demo-With-Cypress/assets/78273243/5ee0615f-0b33-49ee-8591-47d60f8e0a90
+https://github.com/Himu143/Web-Automation-Katalon-Demo-With-Cypress/assets/78273243/3bd87017-da31-46aa-a5a2-fab39d8ae486
+
+https://github.com/Himu143/Web-Automation-Katalon-Demo-With-Cypress/assets/78273243/f29eea99-6b0b-4f82-aea3-166149efa283
+
 
 
 
