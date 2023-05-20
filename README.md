@@ -15,6 +15,8 @@
 - Java Script
 - Visual Studio Code
 - Mochawesome
+## Pre-requisite
+- Node JS must be installed
 ## How to run this project:
 - Clone this project
 - Hit the following command: npx cypress open or npx cypress run
